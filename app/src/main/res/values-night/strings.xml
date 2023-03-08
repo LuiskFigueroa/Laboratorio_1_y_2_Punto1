@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_notas_title">Mis notas</string>
+    <string name="activity_notas_text_view_result">0</string>
+    <string name="activity_notas_text_input_layout_lab_note">Nota de laboratorios</string>
+    <string name="activity_notas_text_input_layout_first_advance">Primer avance proyecto</string>
+    <string name="activity_notas_text_input_layout_second_note">Segundo avance proyecto</string>
+    <string name="activity_notas_text_input_layout_final_project">Proyecto Final</string>
+    <string name="activity_notas_button_calculate">Calcular</string>
+    <string name="activity_notas_button_reset">Resetear</string>
+</resources>
