@@ -31,11 +31,10 @@ class NotasActivity : AppCompatActivity() {
 						(nota4.toFloat() * 0.25))*1000).roundToInt().toDouble()/1000
 				notasBinding.tvResult.setText(suma.toString())
 			}
+		}
 
 		notasBinding.btnReset.setOnClickListener {
 			limpiar()
-		}
-
 		}
 
 	}
